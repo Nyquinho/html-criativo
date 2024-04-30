@@ -6,7 +6,7 @@ body {
       font-family: 'poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #ffe600;
+    background-color: #eb6c04;
     color: rgb(255, 0, 0);
     display: flex;
     justify-content: space-around;
@@ -26,15 +26,15 @@ body {
 
 .cabecalho-lista-item a{
       text-decoration: none;
-      color: rgb(255, 0, 255);
+      color: rgb(47, 158, 43);
 }
 .escola-imagem{
       width: 25%;
 }
 
 #escola{
-      background-image: linear-gradient(#ffe600, #ffe600);
-      color: rgb(255, 0, 191);
+      background-image: linear-gradient(#eb6c04, #eb6c04);
+      color: rgb(71, 136, 46);
       display: flex;
       justify-content: center;
       align-items: center;
@@ -49,7 +49,7 @@ body {
 }
 
 #estudante{
-      background-image: linear-gradient(#ffe600, #fff);
+      background-image: linear-gradient(#eb6c04, #fff);
       padding: 24px 0;
 }
 
@@ -68,7 +68,7 @@ body {
 }
 
 .estudante-titulo{
-      color: #ff00f2;
+      color: #2d993f;
       text-align: center;
       padding: 50px 0;
 }
