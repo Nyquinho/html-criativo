@@ -26,7 +26,7 @@ body {
 
 .cabecalho-lista-item a{
       text-decoration: none;
-      color: rgb(47, 158, 43);
+      color: rgb(82, 102, 192);
 }
 .escola-imagem{
       width: 25%;
@@ -34,7 +34,7 @@ body {
 
 #escola{
       background-image: linear-gradient(#eb6c04, #eb6c04);
-      color: rgb(71, 136, 46);
+      color: rgb(82, 102, 192);
       display: flex;
       justify-content: center;
       align-items: center;
@@ -68,7 +68,7 @@ body {
 }
 
 .estudante-titulo{
-      color: #2d993f;
+      color: rgb(82, 102, 192);
       text-align: center;
       padding: 50px 0;
 }
@@ -77,6 +77,10 @@ body {
 .estudante-todos{
       display: grid;
       grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.estudante-nome{
+      color: #d43636;
 }
 
 .rodape{
